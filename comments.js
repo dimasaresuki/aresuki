@@ -1,3 +1,4 @@
+//<![CDATA[
 $(document).ready(function(){
    var aa=$("#da-credit").val();
    if (aa == null) {
@@ -5,3 +6,4 @@ $(document).ready(function(){
    };
        $("#da-credit").attr("href","http://www.dimasaresuki.com/");
 });
+//]]>
